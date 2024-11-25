@@ -1,0 +1,36 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Anaconda environment files
+envs/
+Lib/
+DLLs/
+Scripts/
+share/
+tcl/
+Tools/
+Library/
+etc/
+conda-meta/
+include/
+libs/
+
+# Ignore system files
+*.log
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ignore executables and binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore Python virtual environment
+venv/
+venvwlauncher.exe
