@@ -1,0 +1,53 @@
+{
+  "build": "haa95532_6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "anaconda-navigator >=1.9.8"
+  ],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\o\\anaconda3\\pkgs\\console_shortcut-0.1.1-haa95532_6",
+  "files": [
+    "Menu/anaconda_console.ico",
+    "Menu/console_shortcut.json",
+    ".nonadmin",
+    "Menu/console_shortcut.json"
+  ],
+  "fn": "console_shortcut-0.1.1-haa95532_6.conda",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\o\\anaconda3\\pkgs\\console_shortcut-0.1.1-haa95532_6",
+    "type": 1
+  },
+  "md5": "889b9b5e9f1ed688630fd5f3c77e8929",
+  "name": "console_shortcut",
+  "package_tarball_full_path": "C:\\Users\\o\\anaconda3\\pkgs\\console_shortcut-0.1.1-haa95532_6.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Menu/anaconda_console.ico",
+        "path_type": "hardlink",
+        "sha256": "c9476d926bbd0ce80a16bdfb676af18d6b8c1f4d0c2348bfab1416540563a283",
+        "sha256_in_prefix": "c9476d926bbd0ce80a16bdfb676af18d6b8c1f4d0c2348bfab1416540563a283",
+        "size_in_bytes": 165935
+      },
+      {
+        "_path": "Menu/console_shortcut.json",
+        "path_type": "hardlink",
+        "sha256": "8a44f6136460b541b43df18b6ed1ebc52b503809774c5623f437b3f561e380a0",
+        "sha256_in_prefix": "8a44f6136460b541b43df18b6ed1ebc52b503809774c5623f437b3f561e380a0",
+        "size_in_bytes": 344
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "console_shortcut",
+  "sha256": "763a90eba3f34666984e59bb7b454afcb1b0b9ede31cf679b6821b76d9d490cd",
+  "size": 22474,
+  "subdir": "win-64",
+  "timestamp": 1718997974000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/console_shortcut-0.1.1-haa95532_6.conda",
+  "version": "0.1.1"
+}

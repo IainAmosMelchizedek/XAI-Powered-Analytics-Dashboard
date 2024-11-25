@@ -1,0 +1,22 @@
+Feature,SHAP Value,LIME Weight,Component,Source,Processed Features,Percentage Contribution (%),Model,Accuracy (%),Compliance Rate (%),Risk Factor,Risk Score Contribution (%),Correlation
+Loan Amount,0.15,0.12,Model Interpretability,,,,,,,,,
+Income,0.1,0.09,Model Interpretability,,,,,,,,,
+Credit Utilization,-0.08,-0.07,Model Interpretability,,,,,,,,,
+Age,0.05,0.04,Model Interpretability,,,,,,,,,
+Education Level,0.12,0.1,Model Interpretability,,,,,,,,,
+Employment Length,-0.04,-0.03,Model Interpretability,,,,,,,,,
+,,,Data Sources,Transactions,"Loan Amount, Credit Score",35,,,,,,
+,,,Data Sources,CRM Data,"Income, Demographics",25,,,,,,
+,,,Data Sources,Financial Indicators,"Risk Score, Investment Ratio",20,,,,,,
+,,,Data Sources,Web Interactions,"Click Through Rate, Time on Page",15,,,,,,
+,,,Data Sources,Surveys,"Customer Satisfaction, Feedback",5,,,,,,
+,,,Key Metrics,,,,Gradient Boosting,89.5,95,,,
+,,,Key Metrics,,,,Neural Network,91.2,93,,,
+,,,Key Metrics,,,,Decision Tree,78.3,88,,,
+,,,Key Metrics,,,,Random Forest,87.6,92,,,
+,,,Key Metrics,,,,Logistic Regression,85,90,,,
+,,,Real-World Scenario,,,,,,,Loan-to-Income Ratio,35,0.7
+,,,Real-World Scenario,,,,,,,Payment History,30,0.6
+,,,Real-World Scenario,,,,,,,Credit Utilization,20,0.5
+,,,Real-World Scenario,,,,,,,Age,10,0.4
+,,,Real-World Scenario,,,,,,,Employment Length,5,0.3
